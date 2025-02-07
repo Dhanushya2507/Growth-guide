@@ -1,2 +1,2 @@
 # Growth-guide
-This website enables you to learn your courses. 
+This e-learning platform enables you to learn your subjects easily
